@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+nav{
+    background-color: black;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+nav ul{
+    list-style: none;
+    justify-content: center;
+    display: flex;
+}
+nav ul a{
+    color: white;
+    margin: 0;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 20px;
+}
